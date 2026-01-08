@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'GohuFont';
+    src: url('fonts/gohufont-uni-14.woff2') format('woff2'),
+         url('fonts/gohufont-uni-14.woff') format('woff'),
+         url('fonts/gohufont-uni-14.ttf') format('truetype');
+}
+
+body {
+    text-align:center;
+    font-family:GohuFont
+};
